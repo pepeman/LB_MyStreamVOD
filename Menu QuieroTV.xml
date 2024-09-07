@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items>
+ 
+<playlist_name><![CDATA[ :::::: Quiero Tv+ 2.1 :::::: ]]></playlist_name>
+
+
+<channel>      
+<title><![CDATA[ :::::: Atresplayer :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/Rh882M0P/Atresplayer.jpg"/>Series y programas Que Emite Atresmedia A La Carta]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/ghftu1hvsau2ups/1%20Indice%20Atresmedia.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[ :::::: Rtve Play :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/W3c4cvd1/Rtve-play.jpg"/>peliculas, series, documentales y directos que se emiten en tve play]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/f7d9rm384tz0yid/1%20Indice%20Rtve.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[ :::::: Mitele :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/BbX1wpJF/mitele.jpg"/>Series y Peliculas Que Emite Mitele A La Carta]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/8526cskr07gkoe1/1%20Indice%20Mitele.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel> 
+
+<channel>      
+<title><![CDATA[ :::::: Clan Tv :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/ry3dwS8h/Clantv.jpg"/>Series De Animacion Que Emiten En Clantv A La Carta]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/mgigxe96ykkch3f/1%20Indice%20Clan.xml?dl=1]]></playlist_url>  
+</channel>
+
+<channel>      
+<title><![CDATA[ :::::: Kidz :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/TPN9NxhP/Kidz.jpg"/>Series De Animacion Que Emiten En Kids A La Carta]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/flb63ndem8ujzkm/1-IndiceKidz.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[ :::::: Series :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/2jMt8Qk5/Series.jpg"/>Series de todos los años y generos.]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/scl/fi/7lppne078q0z5c6uz9qx4/1-Indice-de-series.xml?rlkey=u4khxwpdnodwpem1y7yuvgtyg&dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[ :::::: Cine :::::: ]]></title> 
+<logo></logo> 
+<description><![CDATA[<img src="https://i.postimg.cc/MHmf40tY/Cine.jpg"/>Peliculas de todos los años y generos.]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/x82qn2qdgkprgzd/Indice%20Cine.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[ :::::: Favoritos :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/qRgRk7WV/favoritos.jpg"/>Crea tu propia lista con el contenido que mas te guste o al que quieras acceder de una forma mas rapida.]]></description> 
+<playlist_url><![CDATA[VOD-Favoritos.xml]]></playlist_url> 
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[ :::::: Ayuda :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/44mwYkcX/Ayuda.jpg"/>Funciones de los botones del mando a distancia]]></description> 
+<playlist_url><![CDATA[VOD-Ayuda.xml]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+
+<prev_page_url text="Volver"><![CDATA[https://www.dropbox.com/s/j0qmul834ypsns0/Menu_QuieroTV.xml?dl=1]]></prev_page_url>
+
+</items>
